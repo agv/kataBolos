@@ -1,0 +1,7 @@
+c:\users\alberto\documents\visual studio 2013\Projects\kataBolos\testsBolos\obj\Debug\testsBolos.csprojResolveAssemblyReference.cache
+c:\users\alberto\documents\visual studio 2013\Projects\kataBolos\testsBolos\bin\Debug\testsBolos.dll
+c:\users\alberto\documents\visual studio 2013\Projects\kataBolos\testsBolos\bin\Debug\testsBolos.pdb
+c:\users\alberto\documents\visual studio 2013\Projects\kataBolos\testsBolos\bin\Debug\kataBolos.exe
+c:\users\alberto\documents\visual studio 2013\Projects\kataBolos\testsBolos\bin\Debug\kataBolos.pdb
+c:\users\alberto\documents\visual studio 2013\Projects\kataBolos\testsBolos\obj\Debug\testsBolos.dll
+c:\users\alberto\documents\visual studio 2013\Projects\kataBolos\testsBolos\obj\Debug\testsBolos.pdb

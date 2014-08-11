@@ -1,0 +1,6 @@
+c:\users\alberto\documents\visual studio 2013\Projects\kataBolos\kataBolos\bin\Debug\kataBolos.exe.config
+c:\users\alberto\documents\visual studio 2013\Projects\kataBolos\kataBolos\obj\Debug\kataBolos.csprojResolveAssemblyReference.cache
+c:\users\alberto\documents\visual studio 2013\Projects\kataBolos\kataBolos\bin\Debug\kataBolos.exe
+c:\users\alberto\documents\visual studio 2013\Projects\kataBolos\kataBolos\bin\Debug\kataBolos.pdb
+c:\users\alberto\documents\visual studio 2013\Projects\kataBolos\kataBolos\obj\Debug\kataBolos.exe
+c:\users\alberto\documents\visual studio 2013\Projects\kataBolos\kataBolos\obj\Debug\kataBolos.pdb
